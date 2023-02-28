@@ -12,5 +12,4 @@ public class UnitTestMockFails : IUnitTestMock
 
 public class UnitTestMockSuccess : IUnitTestMock
 {
-	public int Returns0() => 0;
 }
